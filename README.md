@@ -23,5 +23,8 @@ The Ant class defines the behavior of individual ants.
 
 The Food class represents a food object that has a location (x and y coordinates), a size, and an amount.
 `-eatFood() reduces the amount of food in the food source by a certain amount Link to youtube video: https://youtu.be/nJ7vS7AGi7M
-      ![image](https://github.com/aa05420/Swarm-Intelligence/assets/62726090/9acc6886-4f6e-4188-9986-e712612c8b56)
+  
+  
+  ![image](https://github.com/aa05420/Swarm-Intelligence/assets/62726090/e7c176f3-f71f-400f-b990-57c0daca5559)
+
 
